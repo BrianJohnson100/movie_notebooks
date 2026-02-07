@@ -79,7 +79,7 @@ print(movie_df[["Rank", "Release"]])
 ### 7) Export to Excel
 Finally, it writes the full DataFrame to an `.xlsx` file:
 ```python
-Location_for_file_export2 = r"C:\Users\Brian\PycharmProjects\notebooks\data_output\Box_Office1.xlsx"
+Location_for_file_export2 = Path.cwd() / 'data_output' / 'Box_Office1.xlsx'
 movie_df.to_excel(Location_for_file_export2, index=False)
 ```
 
