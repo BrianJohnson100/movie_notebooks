@@ -131,7 +131,7 @@ Then it pulls the weekend table into `movie_df` and exports it to Excel.
 ---
 
 ## The following PowerPoint slides are also available:
-- [The PowerPoint Deck](https://drive.google.com/drive/folders/1GbFoTsWIVGlgPF0dODsRWC99KnETgIE2)
+- [The PowerPoint Deck](https://docs.google.com/presentation/d/1NAq9Rd6g1xze6r32AwUpDjHsR-eVTWnzhF2KLP2CYUY/edit?usp=sharing)
 
 ## License / Terms
 If you plan to use this at scale or commercially, review Box Office Mojo’s **terms of service** and be mindful of request rates.
