@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ba1532e-83a7-4765-86b0-9466e581fb00" name="Changes" comment="Updating the MD file">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="11" />
+    <option name="cachedIndexableFilesCount" value="12" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
@@ -66,10 +67,10 @@
 }</component>
   <component name="RecapSpentCounter">
     <option name="endsOfQuotaMs" value="1773457205415" />
-    <option name="spentUsd" value="0.00576255" />
+    <option name="spentUsd" value="0.016165901" />
   </component>
   <component name="RecapUselessUpdatesCounter">
-    <option name="suspendCountdown" value="8" />
+    <option name="suspendCountdown" value="5" />
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -90,7 +91,9 @@
       <workItem from="1770093266416" duration="74000" />
       <workItem from="1770479785172" duration="3660000" />
       <workItem from="1771033139855" duration="395000" />
-      <workItem from="1771034088317" duration="1514000" />
+      <workItem from="1771034088317" duration="3036000" />
+      <workItem from="1771300084358" duration="1701000" />
+      <workItem from="1771901758669" duration="47000" />
     </task>
     <task id="LOCAL-00001" summary="Updating the MD file">
       <option name="closed" value="true" />
